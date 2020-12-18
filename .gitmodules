@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/JMPerez/spotify-web-api-js.git
+[submodule "server"]
+	path = server
+	url = https://github.com/spotify/web-api-auth-examples.git
